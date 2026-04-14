@@ -8,4 +8,4 @@ RUN npm install
 
 EXPOSE 4000
 
-CMD ["node","backend/index.js"]
+CMD ["node","index.js"]
